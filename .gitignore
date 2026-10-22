@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.vscode/
+**/node_modules/
+**/dist/
+**/.env
+!**/.env.example
+**/.gradle/
+**/.kotlin/
+**/build/
+**/local.properties
+**/xcuserdata/
+**/DerivedData/
+**/*.xcuserstate
+**/Local.xcconfig
